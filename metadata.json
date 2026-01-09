@@ -1,0 +1,5 @@
+{
+  "name": "AgentForge Project Builder",
+  "description": "A multi-agent system that transforms ideas into comprehensive software documentation (PRD, Architecture, API Specs) using specialized AI agents.",
+  "requestFramePermissions": []
+}
